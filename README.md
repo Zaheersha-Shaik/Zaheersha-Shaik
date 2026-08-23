@@ -14,21 +14,38 @@
   <b>🌐 Web Development</b>
   &nbsp; • &nbsp;
   <b>🤖 AI/ML</b>
+  &nbsp; • &nbsp;
+  <b>💻 Software Development</b>
 </p>
 
 <br>
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+---
 
 <!-- ===================== INTRO ===================== -->
 
 # 👋 Hey, I'm Zaheersha Shaik
 
-### 💻 Computer Science Student | Software Developer
+### 💻 Computer Science Student | Software Developer | AI Enthusiast
 
 I'm a Computer Science student passionate about building practical
-software, exploring new technologies, and turning ideas into projects.
+software, exploring modern technologies, and turning ideas into
+real-world applications.
 
-I enjoy working with **Java, Kotlin, Python, Web Technologies, and Android**
-while continuously expanding my skills in modern development and AI.
+I enjoy working with **Java, Kotlin, Python, JavaScript, Android,
+Web Technologies, and AI-powered applications** while continuously
+improving my development skills.
+
+> 🚀 **Learn → Build → Experiment → Improve → Repeat**
 
 ---
 
@@ -37,12 +54,30 @@ while continuously expanding my skills in modern development and AI.
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
-- 💻 Interested in Software Development
-- 📱 Exploring Android & Mobile Development
-- 🌐 Building my Web Development skills
+- 💻 Aspiring Software Developer
+- 📱 Interested in Android & Mobile Development
+- 🌐 Building modern Web Applications
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🧩 Practicing Data Structures & Algorithms
-- 🚀 Always learning and building something new
+- 🛠️ Learning by building real-world projects
+- 🚀 Interested in innovative and practical software solutions
+- 📚 Continuously learning new technologies
+
+---
+
+<!-- ===================== QUICK OVERVIEW ===================== -->
+
+## ⚡ Quick Overview
+
+| 🔹 Area | 🚀 Focus |
+|--------|----------|
+| 💻 Programming | C, Java, Python, Kotlin |
+| 🌐 Web | HTML, CSS, JavaScript, React |
+| 📱 Mobile | Android, Kotlin, Flutter |
+| 🤖 AI | AI Applications, AI APIs, ML |
+| 🗄️ Database | MySQL |
+| 🛠️ Tools | Git, GitHub, Android Studio, VS Code |
+| 🧩 Problem Solving | DSA & Coding Challenges |
 
 ---
 
@@ -52,165 +87,169 @@ while continuously expanding my skills in modern development and AI.
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,kotlin&perline=5" alt="C Java Python JavaScript Kotlin" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,kotlin&perline=5" alt="Programming Languages" />
 </p>
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=3" alt="HTML CSS JavaScript" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4" alt="Web Technologies" />
 </p>
 
 ### 📱 Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter&perline=3" alt="Android Studio Kotlin Flutter" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter&perline=3" alt="Mobile Technologies" />
+</p>
+
+### 🤖 AI & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin&perline=3" alt="AI Development" />
 </p>
 
 ### 🗄️ Database & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github&perline=3" alt="SQL Git GitHub" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=4" alt="Tools" />
 </p>
 
 ---
 
 <!-- ===================== PROJECTS ===================== -->
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📱 Login
+Here are some of the projects I'm building and exploring.
 
-A mobile application developed using Android Studio.
+---
+
+## 📱 Android Projects
+
+### 🔐 Login Application
+
+A mobile application focused on creating a clean Android login experience.
 
 **Technologies:** Java • Android Studio
 
 ---
 
-### 💬 Chat Application
+### 💬 Real-Time Chat Application
 
-A chat application project focused on mobile application development.
+A mobile chat application project focused on real-time communication and Android development.
 
-**Technologies:** Android • Java
-
----
-
-### 🤖 UI-Lab
-
-An AI Agentic project exploring intelligent software interactions.
-
-**Technologies:** Java
+**Technologies:** Android • Java • Kotlin
 
 ---
 
-### 📚 Library
+### 🤖 Customer Support Chatbot
 
-A library application developed using Kotlin.
+An Android-based chatbot interface designed to simulate intelligent customer support interactions.
 
-**Technologies:** Kotlin
-
----
-
-### 🌍 Multi-Language Support
-
-An application exploring multilingual functionality and AI-assisted features.
-
-**Technologies:** Kotlin
+**Technologies:** Kotlin • Android Studio • XML • AI
 
 ---
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
+### 🧠 Prompt Strategy Comparison
 
-## 📚 Currently Learning
+An Android application designed to compare different prompting strategies and display their results through an interactive UI.
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react&perline=1" alt="React" />
-
-</p>
-
-- 🌐 Web Development
-- ⚛️ React
-- 🧩 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
+**Technologies:** Kotlin • Android Studio • XML • AI
 
 ---
 
-<!-- ===================== GOALS ===================== -->
+### 🤖 AI Agent / UI Lab
 
-## 🎯 2026 Goals
+An experimental Android project exploring AI-agent workflows, intelligent interactions, and modern application interfaces.
 
-- 🚀 Build more real-world projects
-- 🧩 Strengthen Data Structures & Algorithms
-- 🌐 Become stronger in Full-Stack Web Development
-- ⚛️ Build and deploy projects using React
-- 🤖 Explore AI/ML through practical applications
-- 📱 Improve Android & Mobile Development
-- ⭐ Build a strong open-source presence
+**Technologies:** Kotlin • Android • AI APIs
 
 ---
 
-<!-- ===================== DEVELOPMENT JOURNEY ===================== -->
+### 📚 Library Application
 
-## 💡 My Development Journey
+A Kotlin-based application designed to explore digital library functionality and mobile UI development.
 
-<div align="center">
+**Technologies:** Kotlin • Android Studio
+
+---
+
+### 🌍 Multi-Language Application
+
+An Android project exploring multilingual functionality and AI-assisted features.
+
+**Technologies:** Kotlin • Android Studio • AI
+
+---
+
+## 🌐 Web Projects
+
+### 🛒 E-Kart Modern E-Commerce
+
+A modern e-commerce website concept featuring products, categories, shopping interactions, and responsive design.
+
+**Technologies:** HTML • CSS • JavaScript • Bootstrap
+
+---
+
+### 📚 Exam Countdown & Study Planner
+
+A student-focused web application for managing exams, study topics, sub-topics, schedules, and countdowns.
+
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+### 🍽️ Restaurant Landing Page
+
+A modern restaurant website concept with attractive sections, menu presentation, responsive design, and interactive elements.
+
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+## 🤖 AI & Intelligent Applications
+
+### 🧠 AI-Powered Applications
+
+Exploring practical applications of AI APIs and intelligent interfaces through Android and web projects.
+
+**Technologies:** Kotlin • Java • Python • AI APIs
+
+---
+
+### 💬 AI Chatbot Experiments
+
+Building chatbot interfaces and experimenting with prompt strategies, API integration, and intelligent responses.
+
+**Technologies:** Kotlin • Android • AI APIs
+
+---
+
+## 🐍 Python Projects
+
+### 🐍 Python AI & Automation
+
+Exploring Python for problem solving, automation, data processing, and artificial intelligence.
+
+**Technologies:** Python
+
+---
+
+<!-- ===================== PROJECT DEVELOPMENT ===================== -->
+
+## 🏗️ What I Like Building
 
 ```text
-             Programming
-                  ↓
-       C • Java • Python • Kotlin
-                  ↓
-      Web & Mobile Development
-                  ↓
- HTML • CSS • JavaScript • Android • Flutter
-                  ↓
-              DSA + React
-                  ↓
-         AI / Machine Learning
-                  ↓
-      Building Real-World Projects 🚀
-```
-
-</div>
-
----
-
-<!-- ===================== PHILOSOPHY ===================== -->
-
-## 💡 My Philosophy
-
-<div align="center">
-
-> **Learn continuously. Build consistently. Solve real problems. Keep improving. 🚀**
-
-</div>
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in learning, collaborating,
-building projects, and exploring new technologies.
-
-<br>
-
-### 🚀 Keep Building. Keep Learning. Keep Growing.
-
-</div>
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=100&section=footer"
-    width="100%"
-    alt="Footer"
-  />
-</p>
+📱 Android Applications
+        ↓
+🤖 AI-Powered Applications
+        ↓
+🌐 Interactive Web Applications
+        ↓
+🧠 Problem Solving & DSA
+        ↓
+⚙️ Automation & Developer Tools
+        ↓
+🚀 Real-World Software Projects
