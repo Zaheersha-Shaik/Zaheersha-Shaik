@@ -282,3 +282,42 @@ and artificial intelligence.
 ⚙️ Automation & Developer Tools
         ↓
 🚀 Real-World Software Projects
+
+---
+
+<!-- ===================== PHILOSOPHY ===================== -->
+
+## 💡 My Philosophy
+
+<div align="center">
+
+> *Learn continuously. Build consistently. Solve real problems. Keep improving. 🚀*
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in learning, collaborating,
+building projects, and exploring new technologies.
+
+<br>
+
+### 🚀 Keep Building. Keep Learning. Keep Growing.
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
