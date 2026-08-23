@@ -24,7 +24,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=Zaheersha-Shaik&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
@@ -70,7 +70,7 @@ improving my development skills.
 ## ⚡ Quick Overview
 
 | 🔹 Area | 🚀 Focus |
-|--------|----------|
+|---|---|
 | 💻 Programming | C, Java, Python, Kotlin |
 | 🌐 Web | HTML, CSS, JavaScript, React |
 | 📱 Mobile | Android, Kotlin, Flutter |
@@ -83,45 +83,61 @@ improving my development skills.
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,kotlin&perline=5" alt="Programming Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=c,java,python,javascript,kotlin&perline=5"
+    alt="Programming Languages"
+  />
 </p>
 
-### 🌐 Web Development
+## 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4" alt="Web Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4"
+    alt="Web Technologies"
+  />
 </p>
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter&perline=3" alt="Mobile Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter&perline=3"
+    alt="Mobile Technologies"
+  />
 </p>
 
-### 🤖 AI & Development
+## 🤖 AI & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin&perline=3" alt="AI Development" />
+  <img
+    src="https://skillicons.dev/icons?i=python,java,kotlin&perline=3"
+    alt="AI Development"
+  />
 </p>
 
-### 🗄️ Database & Tools
+## 🗄️ Database & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=4" alt="Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=4"
+    alt="Development Tools"
+  />
 </p>
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 # 🚀 Featured Projects
 
-Here are some of the projects I'm building and exploring.
+I'm continuously building projects to improve my development skills
+and explore new technologies.
 
 ---
 
@@ -129,7 +145,8 @@ Here are some of the projects I'm building and exploring.
 
 ### 🔐 Login Application
 
-A mobile application focused on creating a clean Android login experience.
+A mobile application focused on creating a clean and user-friendly
+Android login experience.
 
 **Technologies:** Java • Android Studio
 
@@ -137,7 +154,8 @@ A mobile application focused on creating a clean Android login experience.
 
 ### 💬 Real-Time Chat Application
 
-A mobile chat application project focused on real-time communication and Android development.
+A mobile chat application project focused on communication,
+mobile UI development, and application architecture.
 
 **Technologies:** Android • Java • Kotlin
 
@@ -145,7 +163,8 @@ A mobile chat application project focused on real-time communication and Android
 
 ### 🤖 Customer Support Chatbot
 
-An Android-based chatbot interface designed to simulate intelligent customer support interactions.
+An Android chatbot interface designed to simulate intelligent
+customer-support interactions.
 
 **Technologies:** Kotlin • Android Studio • XML • AI
 
@@ -153,7 +172,8 @@ An Android-based chatbot interface designed to simulate intelligent customer sup
 
 ### 🧠 Prompt Strategy Comparison
 
-An Android application designed to compare different prompting strategies and display their results through an interactive UI.
+An Android application designed to compare different prompting
+strategies and present their results through an interactive UI.
 
 **Technologies:** Kotlin • Android Studio • XML • AI
 
@@ -161,7 +181,8 @@ An Android application designed to compare different prompting strategies and di
 
 ### 🤖 AI Agent / UI Lab
 
-An experimental Android project exploring AI-agent workflows, intelligent interactions, and modern application interfaces.
+An experimental Android project exploring AI-agent workflows,
+intelligent interactions, and modern application interfaces.
 
 **Technologies:** Kotlin • Android • AI APIs
 
@@ -169,7 +190,8 @@ An experimental Android project exploring AI-agent workflows, intelligent intera
 
 ### 📚 Library Application
 
-A Kotlin-based application designed to explore digital library functionality and mobile UI development.
+A Kotlin-based application exploring digital library functionality,
+mobile UI design, and application development.
 
 **Technologies:** Kotlin • Android Studio
 
@@ -177,7 +199,8 @@ A Kotlin-based application designed to explore digital library functionality and
 
 ### 🌍 Multi-Language Application
 
-An Android project exploring multilingual functionality and AI-assisted features.
+An Android project exploring multilingual functionality and
+AI-assisted application features.
 
 **Technologies:** Kotlin • Android Studio • AI
 
@@ -187,7 +210,8 @@ An Android project exploring multilingual functionality and AI-assisted features
 
 ### 🛒 E-Kart Modern E-Commerce
 
-A modern e-commerce website concept featuring products, categories, shopping interactions, and responsive design.
+A modern e-commerce website concept featuring product displays,
+categories, shopping interactions, and responsive design.
 
 **Technologies:** HTML • CSS • JavaScript • Bootstrap
 
@@ -195,7 +219,8 @@ A modern e-commerce website concept featuring products, categories, shopping int
 
 ### 📚 Exam Countdown & Study Planner
 
-A student-focused web application for managing exams, study topics, sub-topics, schedules, and countdowns.
+A student-focused web application for managing exams, study topics,
+sub-topics, schedules, and countdowns.
 
 **Technologies:** HTML • CSS • JavaScript
 
@@ -203,17 +228,19 @@ A student-focused web application for managing exams, study topics, sub-topics, 
 
 ### 🍽️ Restaurant Landing Page
 
-A modern restaurant website concept with attractive sections, menu presentation, responsive design, and interactive elements.
+A modern restaurant website concept with attractive sections,
+menu presentation, responsive design, and interactive elements.
 
 **Technologies:** HTML • CSS • JavaScript
 
 ---
 
-## 🤖 AI & Intelligent Applications
+## 🤖 AI Projects
 
 ### 🧠 AI-Powered Applications
 
-Exploring practical applications of AI APIs and intelligent interfaces through Android and web projects.
+Exploring practical applications of AI APIs and intelligent
+interfaces through Android and web projects.
 
 **Technologies:** Kotlin • Java • Python • AI APIs
 
@@ -221,7 +248,8 @@ Exploring practical applications of AI APIs and intelligent interfaces through A
 
 ### 💬 AI Chatbot Experiments
 
-Building chatbot interfaces and experimenting with prompt strategies, API integration, and intelligent responses.
+Building chatbot interfaces and experimenting with prompt strategies,
+API integration, and intelligent responses.
 
 **Technologies:** Kotlin • Android • AI APIs
 
@@ -231,7 +259,8 @@ Building chatbot interfaces and experimenting with prompt strategies, API integr
 
 ### 🐍 Python AI & Automation
 
-Exploring Python for problem solving, automation, data processing, and artificial intelligence.
+Exploring Python for problem solving, automation, data processing,
+and artificial intelligence.
 
 **Technologies:** Python
 
@@ -239,7 +268,7 @@ Exploring Python for problem solving, automation, data processing, and artificia
 
 <!-- ===================== PROJECT DEVELOPMENT ===================== -->
 
-## 🏗️ What I Like Building
+# 🏗️ What I Like Building
 
 ```text
 📱 Android Applications
